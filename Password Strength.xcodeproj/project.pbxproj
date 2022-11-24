@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		52324306292EFD9C009D5898 /* PasswordSuggestStruct.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52324305292EFD9C009D5898 /* PasswordSuggestStruct.swift */; };
+		52324308292F00FA009D5898 /* ProfileDefaults.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52324307292F00FA009D5898 /* ProfileDefaults.swift */; };
 		52F84E2B292D7BF800B40FAE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52F84E2A292D7BF800B40FAE /* AppDelegate.swift */; };
 		52F84E2D292D7BF800B40FAE /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52F84E2C292D7BF800B40FAE /* ViewController.swift */; };
 		52F84E2F292D7BFA00B40FAE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 52F84E2E292D7BFA00B40FAE /* Assets.xcassets */; };
@@ -16,6 +17,7 @@
 
 /* Begin PBXFileReference section */
 		52324305292EFD9C009D5898 /* PasswordSuggestStruct.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PasswordSuggestStruct.swift; sourceTree = "<group>"; };
+		52324307292F00FA009D5898 /* ProfileDefaults.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileDefaults.swift; sourceTree = "<group>"; };
 		52F84E27292D7BF800B40FAE /* Password Strength.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Password Strength.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		52F84E2A292D7BF800B40FAE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		52F84E2C292D7BF800B40FAE /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -39,6 +41,7 @@
 			isa = PBXGroup;
 			children = (
 				52324305292EFD9C009D5898 /* PasswordSuggestStruct.swift */,
+				52324307292F00FA009D5898 /* ProfileDefaults.swift */,
 			);
 			path = TableDataProfiles;
 			sourceTree = "<group>";
@@ -167,6 +170,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				52F84E2D292D7BF800B40FAE /* ViewController.swift in Sources */,
+				52324308292F00FA009D5898 /* ProfileDefaults.swift in Sources */,
 				52F84E2B292D7BF800B40FAE /* AppDelegate.swift in Sources */,
 				52324306292EFD9C009D5898 /* PasswordSuggestStruct.swift in Sources */,
 			);
